@@ -1,1 +1,3 @@
-# Akshar-Tailor
+# Akshar Tailor Flutter App
+
+Instructions inside
